@@ -1,0 +1,23 @@
+
+ol{
+    text-align: left;
+
+}
+
+.container1{
+   background-color: #A0B3D9;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+.text-body-emphasis{
+    padding-bottom: 30px;
+}
+
+button{
+    border-radius: 5%;
+    border-color: black;
+ 
+}
